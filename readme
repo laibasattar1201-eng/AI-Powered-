@@ -1,0 +1,44 @@
+# AI-Powered Learning and Study Management Platform
+
+## Overview
+
+This is a web application designed to help students manage their studies in one place. It combines study management, collaboration, and AI-based learning assistance.
+
+## Main Features
+
+- User Registration & Login
+- Study Notes – Create, Edit and Delete
+- Task Management
+- Study Planner
+- Study Groups
+- Real-Time Group Chat
+- AI Study Assistant
+- AI Quiz Generator
+- Streamlit Analytics Dashboard
+
+## Technology Stack
+
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- AI Service: Python, FastAPI, Gemini
+- Real-Time Chat: Socket.IO
+- Dashboard: Streamlit
+
+## How It Works
+
+The student uses the React frontend. The frontend communicates with the Node.js/Express backend, which manages the application data in MongoDB. AI-related requests are handled by the Python/FastAPI AI service. Socket.IO provides real-time group chat, while Streamlit is used for the analytics dashboard.
+
+## Purpose
+
+The purpose of this project is to provide students with one platform where they can manage their studies, collaborate with others, and get AI-based learning support.
+
+## Author
+## Streamlit Dashboard
+
+Streamlit is used for the project's separate analytics dashboard.
+It helps display study-related data and visualizations in an easy-to-understand way.
+
+The main web application is built with React, while Streamlit is used specifically for the analytics dashboard.
+
+Laiba Sattar
